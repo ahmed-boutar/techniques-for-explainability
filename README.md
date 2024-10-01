@@ -1,5 +1,6 @@
 ## Description 
 
-Generating local explanations for individual predictions from a pre-trained blackbox model (ie ResNet34, Inception, BERT, YOLO, GPT-2). Using either LIME, SHAP, or Anchors for this assignment. 
+Generating local explanations for individual prediction from pre-trained blackbox models. 
+We will use LIME to explain label predictions from ResNet34 given an image input.
+We will use SHAP to explain some text and outline the bias in GPT-2.
 
-Visualization for the explanation is included.
